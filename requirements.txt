@@ -1,4 +1,5 @@
 streamlit
-basic-pitch
+basic-pitch==0.4.0
 music21
-tensorflow-cpu
+tensorflow
+numpy<2.0.0
